@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-19-tracker-coursera-project/static/css/main.d1aaff50.chunk.css",
+    "main.js": "/covid-19-tracker-coursera-project/static/js/main.9d9c26c4.chunk.js",
+    "main.js.map": "/covid-19-tracker-coursera-project/static/js/main.9d9c26c4.chunk.js.map",
+    "runtime-main.js": "/covid-19-tracker-coursera-project/static/js/runtime-main.6433f169.js",
+    "runtime-main.js.map": "/covid-19-tracker-coursera-project/static/js/runtime-main.6433f169.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/covid-19-tracker-coursera-project/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.0f4da525.chunk.js": "/covid-19-tracker-coursera-project/static/js/2.0f4da525.chunk.js",
+    "static/js/2.0f4da525.chunk.js.map": "/covid-19-tracker-coursera-project/static/js/2.0f4da525.chunk.js.map",
+    "static/js/3.fbd4348d.chunk.js": "/covid-19-tracker-coursera-project/static/js/3.fbd4348d.chunk.js",
+    "static/js/3.fbd4348d.chunk.js.map": "/covid-19-tracker-coursera-project/static/js/3.fbd4348d.chunk.js.map",
+    "index.html": "/covid-19-tracker-coursera-project/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/covid-19-tracker-coursera-project/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.d1aaff50.chunk.css.map": "/covid-19-tracker-coursera-project/static/css/main.d1aaff50.chunk.css.map",
+    "static/js/2.0f4da525.chunk.js.LICENSE.txt": "/covid-19-tracker-coursera-project/static/js/2.0f4da525.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6433f169.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.0f4da525.chunk.js",
+    "static/css/main.d1aaff50.chunk.css",
+    "static/js/main.9d9c26c4.chunk.js"
+  ]
+}
